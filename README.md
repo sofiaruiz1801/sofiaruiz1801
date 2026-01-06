@@ -45,7 +45,7 @@ Mi camino profesional comenzó en la **Ingeniería Química**, donde descubrí m
       • Español: <b>Nativo</b>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sofiaruiz1801&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ Mi camino profesional comenzó en la **Ingeniería Química**, donde descubrí m
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sofia-ruiz-52b90a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia-ruiz" height="30" width="40" /></a>
-<a href="mailto:tu-correo@ejemplo.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:sofiaruiz.1505@gmail.com.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 *"En el código, al igual que en un laboratorio, cada error es una oportunidad de optimización."*
