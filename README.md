@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sofía Ruiz 👋
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Backend%20Developer&fontSize=70&animation=fadeIn)
+
 
 ### 🔬 De las Ciencias Exactas al Desarrollo de Software
 
@@ -23,14 +23,14 @@ Mi camino profesional comenzó en la **Ingeniería Química**, donde descubrí m
 
 ---
 
-### 🌐 Idiomas & GitHub Stats
+### 🌐 Idiomas 
 
 **Idiomas:**
 * Inglés: **C2 Proficiency** (Bilingüe)
 * Japonés: **N5** (Básico)
 * Español: **Nativo**
 
-![Sofía Ruiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiaruiz1801&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
