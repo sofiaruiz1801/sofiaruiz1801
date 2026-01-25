@@ -4,7 +4,7 @@
 
 ### 🔬 De las Ciencias Exactas al Desarrollo de Software
 
-Mi camino profesional comenzó en la **Ingeniería Química**, donde descubrí mi pasión por la lógica a través de Python. Tras años como **docente de ciencias exactas**, hoy combino mi formación pedagógica con la arquitectura de software. Soy graduada de Henry y futura estudiante de **Ingeniería en Sistemas (UTN)**.
+Mi camino profesional comenzó en la **Ingeniería Química**, donde descubrí mi pasión por la lógica a través de Python. Tras años como **docente de ciencias exactas**, hoy combino mi formación pedagógica con la arquitectura de software. Soy graduada de Henry y estudiante de **Ingeniería en Sistemas (UTN)**.
 
 ---
 
