@@ -26,9 +26,9 @@ Mi camino profesional comenzó en la **Ingeniería Química**, donde descubrí m
 ### 🌐 Idiomas 
 
 **Idiomas:**
-* Inglés: **C2 Proficiency** (Bilingüe)
-* Japonés: **N5** (Básico)
-* Español: **Nativo**
+* Inglés: **C2 Proficiency**
+* Japonés: **N5** 
+
 
 
 
